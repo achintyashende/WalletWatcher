@@ -14,16 +14,16 @@
 - **Authentication**: JWT (JSON Web Token) or basic authentication.
   
 ## Screenshots
+## Screenshots 
 
-### 1. Dashboard/Main Page
+### Dashboard/Main Page
 ![Dashboard](https://github.com/user-attachments/assets/01013afd-fdd7-44c2-9e33-09c2472076a8)
 
-### 2. Sign Up Page
-![Sign Up Page](https://github.com/user-attachments/assets/2294082b-459c-4115-909a-bf2a7364e68b)
-
-### 3. Login Page
-![Login Page](https://github.com/user-attachments/assets/c9ff319b-75a5-455e-9b39-edbf51d893ef)
-
+### Sign Up & Login Pages
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <img src="https://github.com/achintyashende/WalletWatcher/assets/2294082b-459c-4115-909a-bf2a7364e68b" alt="Sign Up Page" width="48%" />
+  <img src="https://github.com/achintyashende/WalletWatcher/assets/c9ff319b-75a5-455e-9b39-edbf51d893ef" alt="Login Page" width="48%" />
+</div>
   
 ## Installation
 
