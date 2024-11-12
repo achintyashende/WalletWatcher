@@ -13,6 +13,18 @@
 - **Database**: MongoDB (or any preferred database)
 - **Authentication**: JWT (JSON Web Token) or basic authentication.
   
+## Screenshots
+
+### 1. Dashboard/Main Page
+![Dashboard](https://github.com/user-attachments/assets/01013afd-fdd7-44c2-9e33-09c2472076a8)
+
+### 2. Sign Up Page
+![Sign Up Page](https://github.com/user-attachments/assets/2294082b-459c-4115-909a-bf2a7364e68b)
+
+### 3. Login Page
+![Login Page](https://github.com/user-attachments/assets/c9ff319b-75a5-455e-9b39-edbf51d893ef)
+
+  
 ## Installation
 
 ### 1. Clone the repository
@@ -58,20 +70,6 @@ Visit the application at `http://localhost:3000`.
 
 ### Data Visualization
 (optional) On the expenses page, view a pie chart that visualizes the distribution of your expenses by category.
-
-## Screenshots 
-
-## Screenshots
-
-### 1. Sign Up Page
-![Sign Up Page](https://github.com/user-attachments/assets/2294082b-459c-4115-909a-bf2a7364e68b)
-
-### 2. Login Page
-![Login Page](https://github.com/user-attachments/assets/c9ff319b-75a5-455e-9b39-edbf51d893ef)
-
-### 3. Dashboard/Main Page
-![Dashboard](https://github.com/user-attachments/assets/01013afd-fdd7-44c2-9e33-09c2472076a8)
-
 
 
 ## Contributing
